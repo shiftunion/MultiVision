@@ -1,0 +1,15 @@
+{
+  "name": "multivision",
+  "version": "1.0.0",
+  "description": "A testing app for nick's learning. From Pluralsite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Cahill",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.10.0"
+  }
+}
